@@ -67,27 +67,27 @@ ai-blog-generator/
 
 ### Landing Page Hero
 
-![Landing page hero](docs/screenshots/landing-hero.png)
+![Landing page hero](docs/screenshots/generator-overview.png)
 
 ### Shared Product Preview
 
-![Landing page dashboard preview](docs/screenshots/landing-preview.png)
+![Landing page dashboard preview](docs/screenshots/generator-controls-and-output.png)
 
 ### Feature Cards and CTA
 
-![Feature cards and CTA section](docs/screenshots/features-and-cta.png)
+![Feature cards and CTA section](docs/screenshots/workspace-status-and-footer.png)
 
 ### Generator Workspace Overview
 
-![Generator workspace overview](docs/screenshots/generator-overview.png)
+![Generator workspace overview](docs/screenshots/landing-hero.png)
 
 ### Generator Controls and Article Output
 
-![Generator controls and generated article output](docs/screenshots/generator-controls-and-output.png)
+![Generator controls and generated article output](docs/screenshots/landing-preview.png)
 
 ### Workspace Status and Footer
 
-![Workspace status and footer](docs/screenshots/workspace-status-and-footer.png)
+![Workspace status and footer](docs/screenshots/features-and-cta.png)
 
 ## How It Works
 
